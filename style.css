@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    height: 220px;
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    background-color: hotpink;
+    padding-left: 100px;
+    padding-right: 200px;
+}
+.log{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+a{
+    text-decoration: none;
+    margin: 40px;
+
+    font-size: 50px;
+    color: gold;
+}
+.navbar{
+    padding-left: 300px;
+}
+a:hover{
+    color: rgb(90, 20, 220);
+}
