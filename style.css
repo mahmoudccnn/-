@@ -3,6 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+video{
+height:500px
+   ;
+    width:500px;
+margin-top:200px;
+}
 .header{
     height: 220px;
     display: flex;
